@@ -8,3 +8,11 @@ body{
     background-size: 120px;
     background-repeat:no-repeat;
 }
+
+/* @layer components{
+
+.div-margin {
+    @apply m-0;
+}
+
+} */
